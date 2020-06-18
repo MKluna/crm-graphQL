@@ -1,2 +1,0 @@
-# crm-graphQL
-# crm-graphQL
